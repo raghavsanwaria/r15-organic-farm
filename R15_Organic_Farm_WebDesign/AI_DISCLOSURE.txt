@@ -1,0 +1,16 @@
+AI prompt used:
+"Create a responsive two-page Bootstrap 5 website for a small organic farm-produce seller. Include a home page, product catalogue, accessible enquiry form, sample price table, and a JavaScript cart saved in Local Storage. Use semantic HTML5 and a green/cream visual identity."
+
+AI-assisted output used:
+The initial structure, styling ideas and JavaScript implementation were AI-assisted. The student must review, test, understand and personalise the code before submission.
+
+Three student review/fix points to complete before submission:
+1. Verify every price, unit and product description with the actual business; replace illustrative values.
+2. Test the cart and form on mobile and desktop, then correct any issue found in the browser.
+3. Rewrite the copy in the student's own words and add real farm/product photographs only with permission and suitable alt text.
+
+Ethics:
+- Privacy: collect only necessary customer details, explain their purpose, and do not publish form submissions.
+- Copyright: use original, licensed or permission-granted photos, icons and text; credit sources where required.
+- AI disclosure: identify AI-assisted portions and explain the student's own review and modifications.
+- Trust: do not claim certification, organic status, delivery promises or farming practices unless the business can verify them.
